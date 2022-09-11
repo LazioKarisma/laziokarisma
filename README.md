@@ -1,5 +1,4 @@
-### Hi there 👋
-# Hello  I'm Lazio
+# Hello , I am Lazio
 
 ## I'm QA Engineer
 #### Here is About me:
@@ -121,19 +120,3 @@ what's i do?
 [gitlab]: https://about.gitlab.com/
 [k6]: https://k6.io/
 [jira]: https://www.atlassian.com/software/jira
-
-
-<!--
-**LazioKarisma/laziokarisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
