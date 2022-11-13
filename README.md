@@ -16,6 +16,7 @@ PT Manulife Indonesia in Automation Testing
 
 ## How to reach me:
 
+[![@laziokarisma's Holopin board](https://holopin.me/laziokarisma)](https://holopin.io/@laziokarisma)
 
 <br/><br/>
 
